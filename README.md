@@ -67,3 +67,6 @@ http://127.0.0.1:6006 in browser
 Terminate process:
 
 ctrl + C in the running cmd
+
+
+[![DOI](https://zenodo.org/badge/262319791.svg)](https://zenodo.org/badge/latestdoi/262319791)
