@@ -1,3 +1,5 @@
+*Please note that this repo uses TF1. TF2 for object detection is easier to install and get to work, so I would recommend using that instead. Documentation can be found [here](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html)* 
+
 This repository contains the data and code used for generating the result as present in our study. Here we provide instructions regarding how to start training.
 
 Data and images are found in object_detection/images
